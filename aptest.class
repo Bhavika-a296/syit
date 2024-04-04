@@ -1,0 +1,13 @@
+Êþº¾   A %
+       java/applet/Applet <init> ()V
+  	  
+ 
+  java/awt/Graphics drawLine  (IIII)V	       java/awt/Color green Ljava/awt/Color;
+     setColor (Ljava/awt/Color;)V	     red	     blue   aptest Code LineNumberTable paint (Ljava/awt/Graphics;)V 
+SourceFile 
+aptest.java !                    *· ±              ! "     q     A+dd,d¶  +² 
+¶ +d –, –¶  +² ¶ +d È, È¶  +² ¶ ±               
+   	 # 
+ * 
+ 9  @ 
+  #    $
